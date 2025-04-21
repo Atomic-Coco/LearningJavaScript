@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open hex.html",
-            "file": "/Users/dustinkline/Documents/javascript-basic-projects/03-reviews/setup/index.html"
+            "file": "/Users/dustinkline/Documents/javascript-basic-projects/04-navbar/setup/index.html"
         }
     ]
 }
